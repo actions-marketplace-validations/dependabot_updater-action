@@ -46,7 +46,7 @@
     "@types/node": "^18.8.2",
     "@types/node-forge": "^1.0.1",
     "@types/tar-stream": "^2.2.2",
-    "@typescript-eslint/parser": "^4.33.0",
+    "@typescript-eslint/parser": "^8.53.0",
     "@vercel/ncc": "^0.34.0",
     "eslint": "^7.32.0",
     "eslint-config-prettier": "^8.3.0",
